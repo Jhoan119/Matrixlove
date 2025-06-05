@@ -1,4 +1,4 @@
-# Matrixlove infinito
+# Matrixlove infinito ❤️🎶
 
 Animación infinita de “Te amo” en columnas que se desplazan suavemente hacia arriba, creada con HTML, CSS y JavaScript.
 
